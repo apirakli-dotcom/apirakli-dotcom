@@ -1,22 +1,21 @@
 # Hi there 👋 I'm Apirak Limraksa
 
 **Aspiring Quality Assurance (QA) Engineer | Software & Automation Tester**  
-Detail-oriented Information & Technology undergraduate passionate about software quality, systematic test case design, edge-case verification, and end-to-end workflow automation. Experienced in validating data pipelines, verifying algorithmic logic, and coordinating technical events.
+Detail-oriented Information Technology undergraduate passionate about software quality, systematic test case design, edge-case verification, and end-to-end workflow automation. Experienced in validating data pipelines, verifying algorithmic logic, and coordinating technical events.
 
 ---
 
 ### 🎓 Education
-- **Institution:** University in Kamphaeng Saen, Nakhon Pathom, Thailand
-- **Year of Study:** Undergraduate Student
-- **Program :** Information & Technology (IT)
-
+- **Institution:** Kasetsart University, Kamphaeng Saen Campus
+- **Program:** Information Technology (IT)
+- **Status:** Undergraduate Student (2nd Year)
 
 ---
 
 ### 🚀 About Me
 - 🔭 **Currently working on:** Developing and validating self-hosted API & workflow integrations using `n8n` and `Node.js`, alongside writing data verification scripts in `Python`.
 - 🧪 **QA & Testing Focus:** Applying structured logic verification, boundary value analysis, and empirical test cases to ensure system reliability and data accuracy.
-- 🌱 **Currently learning:** Test automation frameworks, REST API testing methodologies, end-to-end test plan documentation, and CI/CD quality gates.
+- 🌱 **Currently learning:** Test automation frameworks , REST API testing (`Postman`), end-to-end test plan documentation, and CI/CD quality gates.
 - 🏆 **Leadership Experience:** Served as a Student Project Lead & Coordinator for a university IT Open House event, organizing interactive VR experience booths and live coding challenges.
 - 💬 **Ask me about:** Test Case Design, Edge-Case Analysis, API Integration, Workflow Automation, Python, and C/C++.
 
@@ -29,7 +28,7 @@ Detail-oriented Information & Technology undergraduate passionate about software
 
 ---
 
-### 🛠 Skills & Tools
+### 🛠️ Skills & Tools
 
 **Languages:**
 
@@ -55,18 +54,17 @@ Detail-oriented Information & Technology undergraduate passionate about software
 ---
 
 ### 📌 Featured Projects
-1. **Automated Workflow & API Integration Pipeline**  
-   - **Tech:** `n8n`, `Node.js`, `Google Sheets API`, `LINE Messaging API`  
+1. **Automated Workflow & API Integration Pipeline**
+   - **Tech:** `n8n`, `Node.js`, `Google Sheets API`, `LINE Messaging API`
    - **Details:** Built a self-hosted automation system connecting spreadsheets with real-time messaging alerts. Designed and executed end-to-end validation checks to verify API payload structures, handle edge-case inputs, and ensure reliable data synchronization.
 
-2. **Python Data Validation & File I/O Processor**  
-   - **Tech:** `Python`, `pandas`  
+2. **Python Data Validation & File I/O Processor**
+   - **Tech:** `Python`, `pandas`
    - **Details:** Developed automated scripts for parsing, transforming, and validating structured tabular datasets. Implemented rule-based checks to detect missing values, formatting anomalies, and boundary errors prior to reporting.
+
 ---
 
 ### 📫 Contact & Availability
-Open to **QA Engineer / Software Tester internships and entry-level opportunities**. Feel free to connect or reach out via GitHub!
-
-- **Email:** [apirak.li@ku.th](mailto:apirak.li@ku.th)
+Open to **QA Engineer / Software Tester internships and entry-level opportunities**. Feel free to connect or reach out!
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:apirak.li@ku.th)
