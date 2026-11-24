@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Apirak Limraksa
 
 **Aspiring Quality Assurance (QA) Engineer | Software & Automation Tester**  
-Detail-oriented Information Technology & Computer Science student passionate about software quality, systematic test case design, edge-case verification, and workflow automation.
+Detail-oriented Information Technology  student passionate about software quality, systematic test case design, edge-case verification, and workflow automation.
 
 ---
 
