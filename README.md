@@ -8,7 +8,7 @@ Detail-oriented Information Technology & Computer Science undergraduate passiona
 ### 🎓 Education
 - **Institution:** University in Kamphaeng Saen, Nakhon Pathom, Thailand
 - **Year of Study:** Undergraduate Student
-- **Program :** Information Technology
+- **Program :** Information & Technology (IT)
 
 
 ---
