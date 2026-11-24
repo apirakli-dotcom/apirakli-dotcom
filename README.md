@@ -67,4 +67,5 @@ Detail-oriented Information & Technology undergraduate passionate about software
 ### 📫 Contact & Availability
 Open to **QA Engineer / Software Tester internships and entry-level opportunities**. Feel free to connect or reach out via GitHub!
 
+- **Email:** [apirak.li@ku.th](mailto:apirak.li@ku.th)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:apirak.li@ku.th)
